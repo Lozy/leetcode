@@ -1,4 +1,4 @@
-letcode solutions with python
+leetcode solutions with python
 =======
 
-用python 刷letcode记录~
+用python 刷leetcode记录~
